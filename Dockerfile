@@ -1,1 +1,1 @@
-FROM servitome/servito-service:3.0.2
+FROM servitome/servito-service:4.0.0
